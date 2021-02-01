@@ -14,9 +14,10 @@
 > I have developed functions necessary for the application, such as login, membership registration, personal asset check, return check, BTC rate versus return, fund asset and return check.
 
 ### 1. Flask
+- https://github.com/mo-zza/application_api
 
 ### 2. nestjs
-- https://github.com/mo-zza/application_api
+- https://github.com/mo-zza/application_controller
 
 ### 3. Infra
 > I used two cloud platforms due to server migration.
