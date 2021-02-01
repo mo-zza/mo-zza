@@ -8,13 +8,11 @@
 ### 2. nestjs
 
 ### 3. CI/CD
-##### 1. Docker
+##### 1. Docker & Kubernetes
 
-##### 2. Kubernetes
+##### 2. Rabbitmq
 
-##### 3. Rabbitmq
-
-##### 4. Jenkins
+##### 3. Jenkins
 
 ### 4. Infra
 1. GCP
