@@ -68,7 +68,7 @@
 ### 2. Back-end
 - python
 - flask
-https://github.com/mo-zza/dream_project
+- https://github.com/mo-zza/dream_project
 
 ### 3. Infra
 - AWS EC2
