@@ -19,7 +19,7 @@
 
 ### 3. Infra
 > I used two cloud platforms due to server migration.
-> Used TerraForm, Ansible, DockerFile, Kubernetes
+> Used Shell, TerraForm, Ansible, DockerFile, Kubernetes
 - https://github.com/mo-zza/application_infra
 1. GCP
     - vm
