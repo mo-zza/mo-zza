@@ -1,16 +1,57 @@
-### Hi there 👋
+# Project Portfolio 👏
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo-zza%2Fmo-zza&count_bg=%2379C83D&title_bg=%23555555&icon=teamspeak.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<!--
-**mo-zza/mo-zza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 1. Application Development 📱
+## 1. Application API
+### 1. Flask
 
-Here are some ideas to get you started:
+### 2. nestjs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 3. CI/CD
+##### 1. Docker
+
+##### 2. Kubernetes
+
+##### 3. Rabbitmq
+
+##### 4. Jenkins
+
+### 4. Infra
+1. GCP
+    - vm
+    - network
+    - functions
+2. AWS
+    - EC2
+    - network
+    - S3
+3. DB
+    - Firebase
+
+# 2. Invest Algorithm 🤖
+## 1. TensorFlow
+# 3. Blockchain DApp ▪️
+## 1 .Sneaker Tech
+### 1. Blockchain
+- Klaytn
+
+### 2. Infra
+- gcp
+- Mongo DB
+- Grapql
+- Apollo 🚀
+
+### 3. CI/CD
+##### Docker
+
+## 2. Declaration Service
+### 1. Blockchain
+- line blockchain service
+
+### 2. Back-end
+- python
+- flask
+
+### 3. Infra
+- AWS EC2
+- Mongo DB
