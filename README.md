@@ -17,14 +17,7 @@
 
 ### 2. nestjs
 
-### 3. CI/CD
-##### 1. Docker & Kubernetes
-
-##### 2. Rabbitmq
-
-##### 3. Jenkins
-
-### 4. Infra
+### 3. Infra
 > I used two cloud platforms due to server migration.
 - https://github.com/mo-zza/application_infra
 1. GCP
@@ -37,6 +30,10 @@
     - S3
 3. DB
     - Firebase
+4. CI/CD
+    - Docker & Kubernetes
+    - Rabbitmq
+    - Jenkins
 
 # 2. Invest Algorithm 🤖
 > Created a stock investment algorithm to achieve a 10% annual return.
