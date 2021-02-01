@@ -54,6 +54,7 @@
 - Mongo DB
 - Grapql
 - Apollo 🚀
+- https://github.com/mo-zza/sneaker_block
 
 ### 3. CI/CD
 ##### Docker
