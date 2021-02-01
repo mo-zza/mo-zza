@@ -46,7 +46,7 @@
 > Used Sneaker Tech with the blockchain to prevent problems arising from used transactions.
 > 1. In the case of second-hand transactions, genuine product authentication is performed using NFC Token.
 > 2. It prevents problems in the middle of distribution by putting movement problems that occur during transactions into the blockchain.
-https://github.com/mo-zza/sneaker_block
+- https://github.com/mo-zza/sneaker_block
 ### 1. Blockchain
 - Klaytn
 
@@ -63,7 +63,7 @@ https://github.com/mo-zza/sneaker_block
 > It is a reporting service for domestic and school violence that does not go away with problems.
 > 1. After reporting, when the fact of the report is revealed, tokens will be issued through the compensation system.
 > 2. Tokens that have been rewarded using the token economy can be used in other services.
-https://github.com/mo-zza/dream_project
+- https://github.com/mo-zza/dream_project
 ### 1. Blockchain
 - line blockchain service
 
