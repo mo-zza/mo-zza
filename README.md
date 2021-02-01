@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo-zza%2Fmo-zza&count_bg=%2379C83D&title_bg=%23555555&icon=teamspeak.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[developer](./developer.webp)
+**Skils**: Node.js, express, Python, Flask, Typescript, Nestjs, Kubermetes, Docker, Dcoker-compose, Jenkins, Apollo, Graphql, MongoDB, Mysql, Firebase, Ansible, Terraform, Shell, REST API, Trading Algorithm, Tensor Flow, AWS, GCP, Ncloud
 
 # 1. Application Development 📱
 > ZOLBO is a cryptocurrency funding service.
