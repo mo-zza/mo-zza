@@ -3,7 +3,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mo-zza.mo-zza)
 [![Github](https://img.shields.io/github/followers/mo-zza?label=Follow&style=social)](https://github.com/mo-zza)
 
 <div size='20px'> Hi there. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -48,6 +47,6 @@
   
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
-<p><img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-zza&theme=dark&hide_border=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-zza&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
+<p><img align="right" width=400 title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-zza&theme=dark&hide_border=false" /></p>
 <br>
