@@ -1,79 +1,53 @@
-# Project Portfolio 👋
-> This repository is for Ha Jaewoo's project arrangement
->There are contents related to the projects and history that Jaewoo have been doing so far
-> Take good care. 👏
+<h1> Welcome to zeeee-u repository! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo-zza%2Fmo-zza&count_bg=%2379C83D&title_bg=%23555555&icon=teamspeak.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-**Skils**: Node.js, express, Python, Flask, Typescript, Nestjs, Kubermetes, Docker, Dcoker-compose, Jenkins, Apollo, Graphql, MongoDB, Mysql, Firebase, Ansible, Terraform, Shell, REST API, Trading Algorithm, Tensor Flow, AWS, GCP, Ncloud
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=mo-zza.mo-zza)
+[![Github](https://img.shields.io/github/followers/mo-zza?label=Follow&style=social)](https://github.com/mo-zza)
 
-# 1. Application Development 📱
-> ZOLBO is a cryptocurrency funding service.
-> Deposits should be made at regular intervals, and withdrawals should also too.
-> In the ZOLBO project, developed API development, DB design, architecture design, CI/CD, infrastructure, and security.
-## 1. Application API
-> In the API, I used python and typescript. I made a prototype with a python flask, and later designed the entire API with python and nestjs.
-> I have developed functions necessary for the application, such as login, membership registration, personal asset check, return check, BTC rate versus return, fund asset and return check.
+<div size='20px'> Hi there. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-### 1. Flask
-- https://github.com/mo-zza/application_api
+<h2> About Me </h2>
 
-### 2. nestjs
-- https://github.com/mo-zza/application_controller
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img  align="right"  src="https://github-readme-stats.vercel.app/api?username=mo-zza&theme=dark&show_icons=true&count_private=true" />
 
-### 3. Infra
-> I used two cloud platforms due to server migration.
-> Used Shell, TerraForm, Ansible, DockerFile, Kubernetes.
-- https://github.com/mo-zza/application_infra
-1. GCP
-    - vm
-    - network
-    - functions
-2. AWS
-    - EC2
-    - network
-    - S3
-3. DB
-    - Firebase
-4. CI/CD
-    - Docker & Kubernetes
-    - Rabbitmq
-    - Jenkins
 
-# 2. Invest Algorithm 🤖
-> Created a stock investment algorithm to achieve a 10% annual return.
-## 1. TensorFlow
-# 3. Blockchain DApp ▪️
-> It is a project that participated and won the Blockchain Hackathon.
-## 1 .SneakerBlock
-> Used Sneaker Tech with the blockchain to prevent problems arising from used transactions.
-> 1. In the case of second-hand transactions, genuine product authentication is performed using NFC Token.
-> 2. It prevents problems in the middle of distribution by putting movement problems that occur during transactions into the blockchain.
-- https://github.com/mo-zza/sneaker_block
-### 1. Blockchain
-- Klaytn
+- 🔭 I’m currently working on IBCT, Popcateum, My blog
 
-### 2. Infra
-- gcp
-- Mongo DB
-- Grapql
-- Apollo 🚀
+- 🌱 I’m currently learning Blockchain, AI
 
-### 3. CI/CD
-##### Docker
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-## 2. Dream
-> It is a reporting service for domestic and school violence that does not go away with problems.
-> 1. After reporting, when the fact of the report is revealed, tokens will be issued through the compensation system.
-> 2. Tokens that have been rewarded using the token economy can be used in other services.
-- https://github.com/mo-zza/dream_project
-### 1. Blockchain
-- line blockchain service
+- 💬 Talk to me about Architecture, Code design 
 
-### 2. Back-end
-- python
-- flask
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 
-### 3. Infra
-- AWS EC2
-- Mongo DB
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.github.com/mo-zza'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+  <br>
+
+  
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p>
+<p><img align="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-zza&theme=dark&hide_border=true" /></p>
+<br>
