@@ -1,4 +1,4 @@
-<h1> Welcome to zeeee-u repository! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Welcome to mo-zza repository! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -13,7 +13,7 @@
 <img  align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mo-zza&theme=dark&show_icons=true&count_private=true" />
 
 
-- 🔭 I’m currently working on IBCT, Popcateum, My blog
+- 🔭 I’m currently working on Animals-Punks, Popcateum, My blog
 
 - 🌱 I’m currently learning Blockchain, AI
 
